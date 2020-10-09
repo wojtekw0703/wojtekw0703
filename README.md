@@ -18,7 +18,7 @@ https://img.shields.io/static/v1?label=<OS>&message=<Linux>&color=<green>
 ![Wojtek's github stats](https://github-readme-stats.vercel.app/api?username=wojtekw0703&show_icons=true&theme=tokyonight)
 
 ## :pushpin: Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekw0703&bg_color=blue)](htps://github.com/wojtekw0703/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekw0703&theme=blue-green)](htps://github.com/wojtekw0703/github-readme-stats)
 
 
 
