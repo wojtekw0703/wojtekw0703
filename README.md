@@ -11,4 +11,4 @@ A few words about me:
 ![Wojtek's github stats](https://github-readme-stats.vercel.app/api?username=wojtekw0703&show_icons=true&theme=tokyonight)
 
 ## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekw0703&layout=compact)](https://github.com/wojtekw0703/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekw0703&layout=compact&bg_color=red)](https://github.com/wojtekw0703/github-readme-stats)
