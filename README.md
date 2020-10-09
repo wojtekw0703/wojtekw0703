@@ -1,6 +1,6 @@
 ### Hi there 👋
 A few words about me:
--:house: I'm from :poland:
+- :house: I'm from :poland:
 - 🔭 I’m currently working on **my personal projects**
 - 🌱 I’m currently learning **Python & CentOS**
 - 👯 I’m looking to collaborate on **open source**
