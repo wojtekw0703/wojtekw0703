@@ -9,3 +9,4 @@ A few words about me:
 
 [![Wojtek's github stats](https://github-readme-stats.vercel.app/api?username=wojtekw0703)](https://github.com/wojtekw0703/github-readme-stats)
 
+![Wojtek's github stats](https://github-readme-stats.vercel.app/api?username=wojtekw0703&show_icons=true&theme=tokyonight)
