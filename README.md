@@ -12,6 +12,7 @@ A few words about me:
 Apart from coding, I also maintain a blog - I share with my experience/thoughts on [my website](http://www.wojciechwydmuch.com)
 
 ## :hammer_and_wrench: Technologies & Tools
+https://img.shields.io/static/v1?label=<OS>&message=<Linux>&color=<green>
 
 ## :chart_with_upwards_trend: Stats
 ![Wojtek's github stats](https://github-readme-stats.vercel.app/api?username=wojtekw0703&show_icons=true&theme=tokyonight)
