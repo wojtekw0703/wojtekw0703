@@ -12,10 +12,10 @@ A few words about me:
 Apart from coding, I also maintain a blog - I share with my experience/thoughts on [my website](http://www.wojciechwydmuch.com)
 
 ## :hammer_and_wrench: Technologies & Tools 
-![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 ## :chart_with_upwards_trend: Stats
 ![Wojtek's github stats](https://github-readme-stats.vercel.app/api?username=wojtekw0703&show_icons=true&theme=tokyonight)
