@@ -16,9 +16,12 @@ Apart from coding, I also maintain a blog - I share with my experience/thoughts 
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-## :pushpin: Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekw0703&theme=blue-green)](htps://github.com/wojtekw0703/github-readme-stats)
+## :stats: Stats
 ![Wojtek's github stats](https://github-readme-stats.vercel.app/api?username=wojtekw0703&show_icons=true&theme=tokyonight)
+
+## :pushpin: Top used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekw0703&theme=blue-green)](htps://github.com/wojtekw0703/github-readme-stats)
+
 
 
 
