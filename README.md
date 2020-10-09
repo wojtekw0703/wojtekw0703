@@ -9,7 +9,7 @@ A few words about me:
 - 📫 How to reach me: **wojciechwydmuch73@gmail.com**
 
 ## :black_nib: My website & writing
-Apart from coding, I also maintain a blog - I share with my experience/thoughts on [my website](http://www.wojciechwydmuch.com)
+Apart from coding, I also maintain a blog - I share with my experience/thoughts/way of studying on [my website](http://www.wojciechwydmuch.com)
 
 ## :hammer_and_wrench: Technologies & Tools 
 ![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&color=2bbc8a)
