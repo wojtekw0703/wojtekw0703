@@ -21,7 +21,6 @@ Apart from coding, I also maintain a blog - I share with my experience/thoughts/
 ![](https://img.shields.io/badge/Tool-UnitTesting-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Communication-Discord-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&color=2bbc8a)
 
 ## :chart_with_upwards_trend: Stats
