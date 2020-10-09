@@ -13,10 +13,16 @@ Apart from coding, I also maintain a blog - I share with my experience/thoughts 
 
 ## :hammer_and_wrench: Technologies & Tools 
 ![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Sublime Text-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python 3.7-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Unit Testing-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Communication-Discord-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&color=2bbc8a)
 ## :chart_with_upwards_trend: Stats
 ![Wojtek's github stats](https://github-readme-stats.vercel.app/api?username=wojtekw0703&show_icons=true&theme=tokyonight)
 
