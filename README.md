@@ -3,7 +3,7 @@ A few words about me:
 - :house: I'm from **:poland:**
 - 🔭 I’m currently working on **my personal projects**
 - 🌱 I’m currently learning **Python & CentOS**
-- 👯 I’m looking to collaborate on **open source**
+- 👯 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **Python**
 - 💬 Ask me about **anything you want**
 - 📫 How to reach me: **wojciechwydmuch73@gmail.com**
@@ -23,6 +23,7 @@ Apart from coding, I also maintain a blog - I share with my experience/thoughts 
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&color=2bbc8a)
+
 ## :chart_with_upwards_trend: Stats
 ![Wojtek's github stats](https://github-readme-stats.vercel.app/api?username=wojtekw0703&show_icons=true&theme=tokyonight)
 
