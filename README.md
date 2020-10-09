@@ -7,5 +7,6 @@ A few words about me:
 - 💬 Ask me about **anything you want**
 - 📫 How to reach me: **wojciechwydmuch73@gmail.com**
 
--->
-How is it going ? :)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<wojtekw0703>&theme=<tokyonight>" />
+
