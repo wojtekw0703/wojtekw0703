@@ -2,7 +2,7 @@
 A few words about me:
 - :house: I'm from **:poland:**
 - 🔭 I’m currently working on **my personal projects**
-- 🌱 I’m currently learning **Python & CentOS**
+- 🌱 I’m currently learning **Python & Ubuntu/CentOS**
 - 👯 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **Python**
 - 💬 Ask me about **anything you want**
