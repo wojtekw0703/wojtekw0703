@@ -28,11 +28,13 @@ Apart from coding, I also maintain a blog - I share with my experience/thoughts/
 - 📫 How to reach me: **wojciechwydmuch73@gmail.com** and also:
 <a href="https://www.facebook.com/wojtek.wydmuch.5/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/124/124010.svg" alt="wojciechwydmuch-fb" height="30" width="40" /></a>
 
-## :chart_with_upwards_trend: Github Story
+## :chart_with_upwards_trend: Github Story & Stats
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wojtekw0703&dummy=123" alt="wojtekw0703" /></p>
+<br>
+<a href="https://github.com/wojtekw0703/wojtekw0703">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wojtekw0703&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wojtek's GitHub Stats" />
+</a>
 
-## :pushpin: Top used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekw0703&theme=blue-green)](htps://github.com/wojtekw0703/github-readme-stats)
 
 
 
