@@ -24,8 +24,8 @@ Apart from coding, I also maintain a blog - I share with my experience/thoughts/
   <a href="https://discord.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Font_Awesome_5_brands_discord_color.svg" alt="discord" width="40" height="40"/> </a>  <a href="https://www.heroku.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
 
-## Contact with me
-- 📫 How to reach me: **wojciechwydmuch73@gmail.com** and also:
+## :mailbox_with_mail: Contact with me
+- How to reach me: **wojciechwydmuch73@gmail.com** and also:
 <a href="https://www.facebook.com/wojtek.wydmuch.5/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/124/124010.svg" alt="wojciechwydmuch-fb" height="30" width="40" /></a>
 
 ## :chart_with_upwards_trend: Github Story & Stats
