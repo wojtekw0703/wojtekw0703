@@ -1,7 +1,7 @@
 ### Hi there 👋
 A few words about me:
 - :house: I'm from **:poland:**
-- 🔭 I’m currently working on **EventApp**
+- 🔭 I’m currently working on **EventApp** and **CodeSignal coding tests and assessments**
 - 🌱 I’m currently learning **Python & Ubuntu/CentOS**
 - 👯 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **Python**
