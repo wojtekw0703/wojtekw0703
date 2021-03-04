@@ -2,7 +2,7 @@
 A few words about me:
 - :house: I'm from **:poland:**
 - 🔭 I’m currently working on **EventApp, Client-Server-JSON** and **CodeSignal & HackerRank coding tests & assessments**
-- 🌱 I’m currently learning **Python & Ubuntu/CentOS**
+- 🌱 I’m currently learning **Python, Unit Tests, CentOS**
 - 👯 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **Python**
 - 💬 Ask me about **anything you want**
