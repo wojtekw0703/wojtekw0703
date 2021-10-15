@@ -1,10 +1,10 @@
 ### Hi there 👋
 A few words about me:
 - :house: I'm from **:poland:**
-- 🔭 I’m currently working on **EventApp, Client-Server-JSON** and **CodeSignal & HackerRank coding tests & assessments**
-- 🌱 I’m currently learning **Python, Unit Tests, CentOS**
+- 🔭 I’m currently working on **Service Desk Training Center**
+- 🌱 I’m currently learning **Python & DevOps**
 - 👯 I’m looking to collaborate on **Open Source**
-- 🤔 I’m looking for help with **Python**
+- 🤔 I’m looking for help with **DevOps**
 - 💬 Ask me about **anything you want**
 
 ## :black_nib: My website & writing
