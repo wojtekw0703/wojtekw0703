@@ -1,9 +1,8 @@
 ### Hi there 👋
 A few words about me:
 - :house: I'm from **:poland:**
-- 🔭 I’m currently working on **Service Desk Training Center**
+- 🔭 I’m currently working on **Service Now simulator**
 - 🌱 I’m currently learning **Python & DevOps**
-- 👯 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **DevOps**
 - 💬 Ask me about **anything you want**
 
