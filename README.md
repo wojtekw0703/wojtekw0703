@@ -26,6 +26,7 @@ Apart from coding, I also maintain a blog - I share with my experience/thoughts/
     <a href="https://prometheus.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" alt="Prometheus" width="40" height="40"/>
        <a href="https://grafana.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="Grafana" width="40" height="40"/>
           <a href="https://www.portainer.io" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/22225832?s=400&v=4" alt="Portainer" width="40" height="40"/>
+            <a href="https://www.postman.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
    </a>
 </p>
 
