@@ -6,9 +6,6 @@ A few words about me:
 - 🤔 I’m looking for help with **DevOps**
 - 💬 Ask me about **anything you want**
 
-## :black_nib: My website & writing
-Apart from coding, I also maintain a blog - I share with my experience/thoughts/way of studying on [my website](http://www.wojciechwydmuch.com)
-
 ## :hammer_and_wrench: Technologies & Tools that I have used
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
        <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> <img src="https://cdn.onlinewebfonts.com/svg/img_437027.png" alt="flask" width="40" height="40"/>
