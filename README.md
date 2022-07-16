@@ -25,6 +25,8 @@ A few words about me:
           <a href="https://www.portainer.io" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/22225832?s=400&v=4" alt="Portainer" width="40" height="40"/>
             <a href="https://www.postman.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
    </a>
+    <a href="https://www.terraform.io" target="_blank"> <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="Terraform" width="40" height="40"/>
+   </a>
 </p>
 
 ## :mailbox_with_mail: Contact with me
