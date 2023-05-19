@@ -1,7 +1,7 @@
 ### Hi there 👋
 A few words about me:
 - :house: I'm from **:poland:**
-- 🔭 I’m currently working on **Python, Linux & VMware labs**
+- 🔭 I’m currently working on **Linux, Windows, Python, Applications**
 - 🌱 I’m currently learning **Python & DevOps**
 - 🤔 I’m looking for help with **DevOps**
 - 💬 Ask me about **anything you want**
